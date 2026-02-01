@@ -1,0 +1,4 @@
+:root { font-family: system-ui, Arial, sans-serif; }
+body { margin: 0; background: #050a0d; color: #eaffff; }
+* { box-sizing: border-box; }
+a { color: inherit; }
